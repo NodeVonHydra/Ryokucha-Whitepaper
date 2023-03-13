@@ -1,3 +1,5 @@
+# Ichibancha/Nibancha/Sanbancha
+
 Ichibancha is the first tea harvest of the year, which typically takes place in late April or early May in most regions of Japan. The tea leaves harvested during the first flush are considered to be of the highest quality, with a delicate flavor and aroma, and are often used for the production of high-end teas like gyokuro and sencha.
 
 Sanbancha, on the other hand, is the third tea harvest of the year, which typically takes place in late summer or early autumn. The tea leaves harvested during this flush are generally considered to be of lower quality than the first flush, with a more robust and astringent taste.
