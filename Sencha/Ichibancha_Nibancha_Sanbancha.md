@@ -4,5 +4,6 @@ Sanbancha, on the other hand, is the third tea harvest of the year, which typica
 
 Nibancha is the second tea harvest of the year, which typically takes place between Ichibancha and Sanbancha. The tea leaves harvested during this flush are generally of medium quality and have a balanced flavor profile, with a combination of sweetness, bitterness, and astringency.
 
+<br><br />
 
 ![Screenshot from 2023-03-13 15-30-39](https://user-images.githubusercontent.com/97338807/224732038-0dca1515-47a9-4ec0-8fad-a64f6656260a.png)
