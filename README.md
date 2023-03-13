@@ -57,7 +57,7 @@ Shading prevents the breakdown of l-theanine into catechins (antioxidants). Cate
 
 **1. Tana** - involves placing shading material over the tea plants, which are grown on a platform or shelf. This method is typically used for the production of high-end teas like gyokuro, which require a longer shading period (up to three weeks) to develop their delicate flavor and aroma.
 
-**2. Jikagise** - involves using a movable shading material that is adjusted to gradually increase or decrease the amount of sunlight that the tea plants receive. This method is often used in the production of Kabusecha, which requires a shorter shading period (around one to two weeks) to develop its unique flavor and aroma.
+**2. Jikagise** - involves using layers of shading material, the amount of which is adjusted to gradually increase or decrease the amount of sunlight that the tea plants receive. This method is often used in the production of Kabusecha, which requires a shorter shading period (around one to two weeks) to develop its unique flavor and aroma.
 
 **3. Yama** - involves placing shading material directly on the tea plants, which are grown on a sloping hillside. This method is often used in the production of high-quality Sencha, which requires a shorter shading period (around one week) to develop its unique taste and aroma.
 
