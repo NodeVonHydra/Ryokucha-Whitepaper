@@ -1,4 +1,4 @@
-# Sencha
+# Sencha (煎茶) 
 
 Sencha is the most common type of tea in Japan and can be found in a huge variety of different forms. If you’ve heard of a type of ryokucha, it’s very likely that it’s either sencha or that it originated from sencha.
 
