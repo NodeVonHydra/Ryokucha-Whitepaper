@@ -2,7 +2,7 @@
 
 **Ryokucha and l-theanine allows evolution to superhuman. Let the future be in our hands!**
 
-In this README.md file, you will learn about the basic ryokuche cultivars as well as the different methods of its preparation based on the steaming period.
+In this README.md file, you will learn about the basic ryokucha cultivars as well as the different methods of its preparation based on the steaming period. If you are interested in individual tea strains, view code.
 
 # Cultivars
 
