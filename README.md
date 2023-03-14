@@ -77,3 +77,11 @@ Shading prevents the breakdown of l-theanine into catechins (antioxidants). Cate
 The deep-steaming technique used in fukamushi results in a more intense, bold, and rich flavor profile, as well as a darker green color. This is because the longer steaming time (around 1-2 minutes) breaks down the cell walls of the tea leaves, releasing more flavor compounds and catechins (a type of antioxidant found in tea). The resulting tea is also typically more powdery and has a thicker, fuller mouthfeel.
 
 On the other hand, the light-steaming technique used in asamushi results in a lighter and more delicate flavor profile, with a brighter green color. The shorter steaming time (around 30 seconds to 1 minute) preserves more of the tea leaves' natural flavors and aromas, resulting in a tea that is more nuanced and subtle in taste.
+
+# Research and health benefits
+
+Ryokucha contains a variety of enzymes, amino acids, carbohydrates, lipids, sterols, polyphenols, carotenoids, tocopherols, vitamins, caffeine and related compounds, phytochemicals and dietary minerals. Numerous claims have been made for the health benefits of green tea based on chemical composition, in vitro and animal studies, though results in humans have been inconsistent and few clear benefits for humans have been demonstrated. There is also evidence suggesting consuming large volumes of green tea, and in particularly green tea extracts, may cause oxidative stress and liver toxicity.
+
+A 2012 systematic review concluded the evidence that green tea can prevent cancer "is inadequate and inconclusive" but with some evidence for a reduction in certain types of cancer (breast, prostate, ovarian and endometrial). Green tea may lower blood low-density lipoprotein and total cholesterol levels, though the studies were of short duration and it is not known if these effects result in fewer deaths and evidence does not support green tea reducing coronary artery disease risk. Several randomized controlled trials suggest green tea can reduce body fat by a small amount for a short time, though it is not certain if the reduction would be meaningful for most people. 
+
+Enjoy!
