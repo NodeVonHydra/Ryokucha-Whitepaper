@@ -70,7 +70,7 @@ Shading prevents the breakdown of l-theanine into catechins (antioxidants). Cate
         
 <br></br>
 
-![l-theanine(1)](https://user-images.githubusercontent.com/97338807/225083248-8ffce4db-4be1-45ac-8834-2a0c468c13a6.png)
+![l-theanine(3)](https://user-images.githubusercontent.com/97338807/225086577-555645d2-2336-4f50-bf8d-8ded765cb623.png)
 
 
 
