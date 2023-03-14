@@ -66,7 +66,13 @@ Shading prevents the breakdown of l-theanine into catechins (antioxidants). Cate
     • Shading time classification includes:
         ◦ Sencha: Non-shaded tea
         ◦ Kabusecha: Lightly shaded for around 1-2 weeks before harvesting.
-        ◦ Gyokuro: Highly shaded for around 3-4 weeks before harvesting.     
+        ◦ Gyokuro: Highly shaded for around 3-4 weeks before harvesting.   
+        
+<br></br>
+
+![l-theanine(1)](https://user-images.githubusercontent.com/97338807/225083248-8ffce4db-4be1-45ac-8834-2a0c468c13a6.png)
+
+
 
 # Steaming time
 
