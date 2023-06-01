@@ -4,4 +4,4 @@
 
 Tamaryokucha is only produced in Kyushu around Ureshino in Saga prefecture. In all other areas is mostly Sencha produced. 
 
-Tamaryokucha is similar to Goricha, another Japanese pan fried tea.
+Tamaryokucha is similar to Goricha, another Japanese pan fried tea. While both Tamaryokucha and Guricha have similarities in terms of their appearance and the way they are processed, they can have slight variations in flavor and aroma due to differences in cultivation regions and production methods. However, it's important to note that the terminology and naming conventions for Japanese green teas can vary, and sometimes Tamaryokucha and Guricha may be used interchangeably depending on the region or context.
