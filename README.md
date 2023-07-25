@@ -55,13 +55,23 @@ By covering the tea plants with shading material, tea producers can slow down th
 
 Shading prevents the breakdown of l-theanine into catechins (antioxidants). Catechins have a bitter taste, while l-theanine is characterized by an umami taste. Shading the tea also induces a stress response in the plant, which produces more chlorophyll and caffeine. Here are some of the most common shading methods used in the production of Ryokucha:
 
-**1. Tana** - involves placing shading material over the tea plants, which are grown on a platform or shelf. This method is typically used for the production of high-end teas like gyokuro, which require a longer shading period (up to three weeks) to develop their delicate flavor and aroma.
+## Jikakabuse
 
-**2. Jikagise** - involves using layers of shading material, the amount of which is adjusted to gradually increase or decrease the amount of sunlight that the tea plants receive. This method is often used in the production of Kabusecha, which requires a shorter shading period (around one to two weeks) to develop its unique flavor and aroma.
+**Jikakabuse** (Direct Shading - 直冠せ): the simplest and cheapest shading method. Black synthetic cloth is draped directly over the plants, blocking out around 70% of the sunlight. A second layer can be added to increase the shading to around 95%. Putting the shading material directly on the tea requires that the plants be machine-trimmed to have an even surface. This machine-trimming gives many Japanese tea bushes their distinctive rounded shape. The even surface it creates is perfect for harvesting the tea leaves by machine as well, although they can also be hand-picked. This style of shading is most commonly used for shaded sencha and kabusecha, it is also used occasionally for gyokuro and tencha. 
 
-**3. Yama** - involves placing shading material directly on the tea plants, which are grown on a sloping hillside. This method is often used in the production of high-quality Sencha, which requires a shorter shading period (around one week) to develop its unique taste and aroma.
+![Tezumi_Blogillustrations_ShadedTeasPart1_Jikakabuse_Updated_480x480](https://github.com/NodeVonHydra/Ryokucha-Whitepaper/assets/97338807/c53875c7-994c-4ecc-88ae-7b8627c175c3)
 
-**4. Honzu** - involves covering the tea plants with a flat, rectangular shading material. This method is typically used in the production of fukamushi-cha, a type of deep-steamed green tea that requires a shorter shading period (around one week) to develop its bold and rich flavor.
+## Kanreisha
+
+**Kanreisha** (Shelf-style with Synthetic Cloth - 寒冷紗): the most common shading method. Here, the black fabric is held in a canopy, or shelf, built over the tea bushes. This allows greater air and moisture circulation and also lets the plants grow more freely. Some shelf-shaded teas are grown untrimmed as shizen-shitate (自然仕立て- naturally-tailored) bushes, meaning that the bushes grown naturally and unshaped, which produces higher quality tea, but also makes them unsuitable for machine-harvesting, requiring these teas to be picked by hand. In this diagram the tea bush has a machine rounded shape.
+
+![Tezumi_Blogillustrations_ShadedTeasPart1_Kanreisha__Updated_480x480](https://github.com/NodeVonHydra/Ryokucha-Whitepaper/assets/97338807/43531f8f-335e-4355-af10-b93e6e111013)
+
+## Honzu
+
+**Honzu** (Shelf-style with Reeds and Straw Mats - 本簀): the most traditional shading method. Dating back at least over 400 years, the Honzu method uses the same shelf system as kanreisha but uses a screen of reeds as the first layer of shading instead of synthetic fabric. Though considerably more labour intensive and expensive to construct, the reed screen allows for even more air and moisture to circulate around the plants producing higher-quality, more complex teas. Additional layers of shading are added by placing straw mats on top of the reed screen. Most honzu-shaded fields are grown as shizen-shitate as shown above.
+
+![Tezumi_Blogillustrations_ShadedTeasPart1_Honzu_Updated_480x480](https://github.com/NodeVonHydra/Ryokucha-Whitepaper/assets/97338807/7591e9ff-2b07-420c-9c5b-fcd3a78b226e)
 
     • Shading time classification includes:
         ◦ Sencha: Non-shaded tea
