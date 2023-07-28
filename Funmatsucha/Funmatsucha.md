@@ -1,4 +1,4 @@
-## Funmatsucha (粉末茶)
+# Funmatsucha (粉末茶)
 
 **Funmatsucha (粉末茶)** is something that looks like matcha, but it’s not matcha.
 
