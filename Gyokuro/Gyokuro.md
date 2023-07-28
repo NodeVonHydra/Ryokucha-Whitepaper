@@ -1,6 +1,6 @@
-# Gyokuro
+# Gyokuro (玉 露)
 
-**Gyokuro** is a type of Japanese green tea that is highly prized for its delicate flavor, rich aroma, and vibrant green color. It is considered one of the highest quality teas in Japan, and it is often referred to as "jade dew" due to its bright green color and dewy appearance.
+**Gyokuro (玉 露)** is a type of Japanese green tea that is highly prized for its delicate flavor, rich aroma, and vibrant green color. It is considered one of the highest quality teas in Japan, and it is often referred to as "jade dew" due to its bright green color and dewy appearance.
 
 The tea leaves used to make Gyokuro are **grown in the shade for several weeks before harvest (usually 20 days)**, which helps to increase the chlorophyll content in the leaves and give them a deep green color. The shading also causes the leaves to produce more amino acids and other beneficial compounds, which give the tea its characteristic sweetness and umami flavor.
 
