@@ -1,3 +1,3 @@
-# Karigane
+# Karigane (茎茶)
 
-**Karigane** is actually just kukicha, which is a byproduct of gyokuro. Sometimes it is also called **"shiraore"**.
+**Karigane (茎茶)** is actually just kukicha, which is a byproduct of gyokuro. Sometimes it is also called **"shiraore"**.
