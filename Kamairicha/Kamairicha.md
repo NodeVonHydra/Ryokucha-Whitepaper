@@ -1,8 +1,8 @@
-# Kamairicha
+# Kamairicha (釜炒り茶)
 
-**Kamaricha** is a type of Japanese green tea that is made from tea leaves that have been tightly rolled into small, pellet-like shapes. The name "Kamaricha" translates to **"curled tea"** in Japanese, and it is known for its unique appearance and flavor.
+**Kamaricha (釜炒り茶)** is a type of Japanese green tea that is made from tea leaves that have been tightly rolled into small, pellet-like shapes. The name "Kamaricha" translates to **"curled tea"** in Japanese, and it is known for its unique appearance and flavor.
 
-To make Kamaricha, the tea leaves are harvested and processed in a traditional way, using a rolling process that compresses the leaves into small, round shapes. The tea is then dried and roasted, giving it a distinctive nutty flavor and aroma.
+To make Kamaricha, the tea leaves are harvested and processed in a traditional way, using a rolling process that compresses the leaves into small, round shapes. The tea is then dried and pan fried, giving it a distinctive nutty flavor and aroma. Moreover, the pan frying process is not very typical of Japanese teas, but is more typical of Chinese teas. 
 
 The rolling process used to make Kamaricha also gives the tea a unique texture, with a slightly chewy and satisfying mouthfeel. The flavor of Kamaricha is described as being slightly sweet and nutty, with a smooth and mellow taste.
 
