@@ -1,6 +1,6 @@
-# Konacha
+# Konacha (粉茶)
 
-**Konacha** is a type of Japanese green tea that is **made from the fine particles and dust** that are left over from the processing of other types of Japanese green tea, such as sencha or Gyokuro. The name "Konacha" translates to "powder tea" in Japanese, and it is known for its strong flavor and unique texture.
+**Konacha (粉茶)** is a type of Japanese green tea that is **made from the fine particles and dust** that are left over from the processing of other types of Japanese green tea, such as sencha or Gyokuro. The name "Konacha" translates to "powder tea" in Japanese, and it is known for its strong flavor and unique texture.
 
 To make Konacha, the leftover tea particles and dust are collected and blended together. The resulting tea has a strong, robust flavor and a dark green color. The texture of Konacha is unique among Japanese green teas, as it has a thick, creamy texture that is often described as being similar to the texture of matcha.
 
