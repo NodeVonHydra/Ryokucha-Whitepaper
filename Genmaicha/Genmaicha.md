@@ -1,6 +1,6 @@
-# Genmaicha
+# Genmaicha (玄米茶)
 
-**Genmaicha** is a type of Japanese green tea that is blended with toasted brown rice. The term "Genmaicha" translates to "brown rice tea" in Japanese, and it is known for its unique flavor and aroma.
+**Genmaicha (玄米茶)** is a type of Japanese green tea that is blended with toasted brown rice. The term "Genmaicha" translates to "brown rice tea" in Japanese, and it is known for its unique flavor and aroma.
 
 This type of tea was **originally drunk by poor people** because the added rice made the tea cheaper. It is therefore also known as "People's tea." Today it is consumed by all segments of society. The infusion has a slight yellow tinge. Its flavor is mild and it combines the fresh and grassy flavor of green tea with the aroma of roasted rice.
 
