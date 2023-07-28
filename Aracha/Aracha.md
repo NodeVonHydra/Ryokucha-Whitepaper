@@ -1,6 +1,6 @@
-# Aracha
+# Aracha (荒茶)
 
-**Aracha** is a type of Japanese green tea that is known for its unique and rustic appearance. The name "Aracha" translates to **"rough tea"** in Japanese, and it is characterized by its unrefined, unsorted leaves.
+**Aracha (荒茶)** is a type of Japanese green tea that is known for its unique and rustic appearance. The name "Aracha" translates to **"rough tea"** in Japanese, and it is characterized by its unrefined, unsorted leaves.
 
 To make Aracha, the tea leaves are harvested and processed in a traditional way, without the extensive refining and sorting that is used for other types of Japanese green tea. As a result, Aracha **tea leaves often contain stems, twigs**, and other plant matter, giving the tea a rustic appearance.
 
