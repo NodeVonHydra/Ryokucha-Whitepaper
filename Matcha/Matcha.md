@@ -1,6 +1,6 @@
-# Matcha
+# Matcha (抹茶)
 
-**Matcha** is a type of Japanese green tea that is made from shade-grown tea leaves that are ground into a fine powder. The term "matcha" translates to **"powdered tea"** in Japanese, and it is known for its distinctive bright green color and unique taste.
+**Matcha (抹茶)** is a type of Japanese green tea that is made from shade-grown tea leaves that are ground into a fine powder. The term "matcha" translates to **"powdered tea"** in Japanese, and it is known for its distinctive bright green color and unique taste.
 
 What most people don’t know, however, is that this stone-grinder method of processing tea is not some kind of specialty of Japanese connoisseurs. In fact, it was the traditional way of preparing almost every tea in ancient China, but it has only survived in Japanese tea culture today.
 
