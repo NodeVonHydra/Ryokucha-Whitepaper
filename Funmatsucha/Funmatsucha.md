@@ -1,6 +1,6 @@
-## Funmatsucha
+## Funmatsucha (粉末茶)
 
-**Funmatsucha** is something that looks like matcha, but it’s not matcha.
+**Funmatsucha (粉末茶)** is something that looks like matcha, but it’s not matcha.
 
 Funmatsucha has no established origin. It can be sencha, hojicha, or even genmaicha in powdered form. And that’s exactly the main difference between matcha and funmatsucha – matcha, in short, is something that has to come strictly from tencha.
 
