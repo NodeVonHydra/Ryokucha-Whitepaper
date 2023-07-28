@@ -1,6 +1,6 @@
-# Fukamushicha
+# Fukamushicha (深蒸し茶)
 
-**Fukamushicha** literally means **“deep-steamed tea”** and as the name suggests, it is a tea that is steamed a little longer than most tea varieties. It is usually produced in Shizuoka Prefecture.
+**Fukamushicha (深蒸し茶)** literally means **“deep-steamed tea”** and as the name suggests, it is a tea that is steamed a little longer than most tea varieties. It is usually produced in Shizuoka Prefecture.
 
 The classic ryokucha is steamed for about 30 to 40 seconds and the resulting product is called futsuumushicha (普通蒸し茶, “normal steamed tea”). Fukamushicha, by comparison, is **steamed for one minute and sometimes longer**.
 
