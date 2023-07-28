@@ -100,7 +100,36 @@ Ryokucha contains a variety of enzymes, amino acids, carbohydrates, lipids, ster
 
 A 2012 systematic review concluded the evidence that green tea can prevent cancer "is inadequate and inconclusive" but with some evidence for a reduction in certain types of cancer (breast, prostate, ovarian and endometrial). Green tea may lower blood low-density lipoprotein and total cholesterol levels, though the studies were of short duration and it is not known if these effects result in fewer deaths and evidence does not support green tea reducing coronary artery disease risk. Several randomized controlled trials suggest green tea can reduce body fat by a small amount for a short time, though it is not certain if the reduction would be meaningful for most people.
 
-There are heaps and heaps of studies and more details can be found in our folders for specific teas
+In short, some of the benefits of ryokuche can be summarized as follows:
+
+- **Heart**
+  - Drinking green tea is linked to a [reduced risk of clogged arteries and a lower risk of death from heart disease](https://www.health.com/nutrition/benefits-green-tea)
+  - The antioxidants in green tea may help [protect against heart disease](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2855614/)
+
+- **Brain and cognitive decline in older age**
+  - Green tea consumption has been associated with a [lower risk of dementia and Alzheimer's disease](https://www.mdpi.com/1420-3049/26/16/4897)
+  - Green tea may improve cognitive function by [reducing AD pathology and improving anti-oxidative stress capacity](https://www.frontiersin.org/articles/10.3389/fnagi.2022.919766/full)
+
+- **Cancer**
+  - Green tea has anti-cancer properties and may [help prevent the development and growth of cancer cells](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2855614/)
+
+- **Immunity**
+  - The antioxidants in green tea may help [boost the immune system and protect against infections](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2855614/)
+
+- **Blood sugar**
+  - Green tea consumption has been associated with a [lower risk of type 2 diabetes and insulin resistance](https://www.healthline.com/nutrition/green-tea-with-lemon)
+  - Long-term consumption of green tea catechins [may be beneficial in managing type 2 diabetes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2855614/)
+    
+- **Liver**
+  - Green tea may help protect against liver damage and [improve liver function](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2855614/)
+ 
+- **Metabolism**
+  - Green tea may [help boost metabolism and increase fat oxidation](https://www.everydayhealth.com/diet-nutrition/diet/green-tea-nutrition-health-benefits-side-effects/), leading to weight loss
+
+- **Osteoporosis**
+  - The antioxidants and bioactive compounds in green tea may help improve bone mineral density and [reduce the risk of osteoporosis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2855614/)
+  
+However, there are heaps and heaps of studies and more details can be found in our folders for specific teas.
 
 Enjoy!
 
