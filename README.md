@@ -15,6 +15,22 @@ Ryokucha, which refers to Japanese green tea, is made from different cultivars o
 - thick leaves that survive the winter
 - relatively low catechin content, which is a type of antioxidant found in tea (this results in a mild and slightly sweet taste)
 
+## Yutakamidori
+
+- breed of Asatsuyu cultivar
+- second most used cultivar after Yabukita
+- early harvest time
+    - picked more than 5 days earlier than Yabukita
+- mainly grown in Kagoshima and Miyazaki and is resistent against fungal disease
+
+## Okuyutaka
+
+- bred from selected seeds of the Yutakamidori cultivar
+- picked two days later than Yabukita, and has a higher yield
+- makes a good quality sencha :)
+- fares well in cold weather
+- its young leaves harden quickly, so there’s a short time window before the quality starts to decrease
+
 ## Okumidori
 
 - developed in the 1970s by the National Institute of Tea, part of the Ministry of Agriculture, Forestry, and Fisheries in Japan
@@ -48,6 +64,10 @@ Ryokucha, which refers to Japanese green tea, is made from different cultivars o
   - many such seedlings where raised and Gokou was selected as the best of them in 1953
 - meant for gyokuro and tencha (which ultimately results in matcha)
 
+## Asanoka
+
+- developed in Kagoshima by crossing Yabukita and a Chinese cultivar named Hiramizu #1 (平水１号)
+- slightly early budding, with a strong cold resistance
 
 # Shading
 
