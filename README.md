@@ -69,6 +69,24 @@ Ryokucha, which refers to Japanese green tea, is made from different cultivars o
 - developed in Kagoshima by crossing Yabukita and a Chinese cultivar named Hiramizu #1 (平水１号)
 - slightly early budding, with a strong cold resistance
 
+## Benihomare
+
+- meaning “red honor” (べにほまれ)
+- the Japanese government had the goal of producing black tea to accommodate for Europe’s demand in 1950s
+- because it’s of the assamica variety, this cultivar’s leaves are very big and are dark green
+- mostly for black tea
+- useful for preventing allergies
+
+## Benifuuki
+
+- result of crossbreeding Benihomare with MakuraCd86 in Makurazaki city, Kagoshima prefecture, 1965
+    - The MakuraCd86 (枕Cd86) tea plant is quite special. It comes from the Darjeeling region, which produces some of the best teas in India
+- loosely translates as “red riches and honors”
+- resistant to various diseases
+- interestingly, the harvesting time differs depending on the type of tea to be produced; for example, it’s harvested one or two days later than the Yabukita cultivar for black tea, but for green tea the harvesting time is a week later than Yabukita
+- strong taste and high astringency
+- useful for preventing allergies
+
 # Shading
 
 By covering the tea plants with shading material, tea producers can slow down the growth of the leaves and encourage the development of certain chemical compounds that give the tea a unique flavor and aroma.
