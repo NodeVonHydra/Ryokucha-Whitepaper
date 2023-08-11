@@ -17,10 +17,11 @@ Ryokucha, which refers to Japanese green tea, is made from different cultivars o
 
 ## Yutakamidori
 
-- breed of Asatsuyu cultivar
 - second most used cultivar after Yabukita
 - early harvest time
     - picked more than 5 days earlier than Yabukita
+- when processed normally as a sencha it turned out to be highly astringent and with an undesirable color for its liquor
+    - this issue was fixed by processing it as a fukamushi sencha and by shading the tea plants one week before harvest
 - mainly grown in Kagoshima and Miyazaki and is resistent against fungal disease
 
 ## Okuyutaka
