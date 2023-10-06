@@ -174,4 +174,4 @@ Enjoy!
 
 # Contribute
 
-https://pay.paralelnipolis.cz/apps/asA5typAsbPibcueKBt8JcuwUtT/crowdfund
+https://pay.monerotea.garden/apps/4QXcc8jvG5ScGPqUYwgBPSCqW7JG/crowdfund
